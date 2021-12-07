@@ -10,7 +10,8 @@ To run the scripts:
 
 - download the data from zenodo:  
 - unzip them and add the folder *data/* to the working directory
-- *data/* contains:
+
+*data/* contains:
   * *data/input/* 	
     * forcing data and observational constraints 
     * ancillary data such as the regional classification
