@@ -10,7 +10,8 @@ To run the scripts:
   * getStarted.mat sets all paths and runs all other scripts
 - if paths are set correctly, all files in the main folder can be run independently
 
-- download the data from zenodo:  
+- download the data from zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5763838.svg)](https://doi.org/10.5281/zenodo.5763838)
+
 - unzip them and add the folder *data/* to the working directory
 
 *data/* contains:
